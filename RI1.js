@@ -13,7 +13,7 @@ const personagem1 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem2 = {
@@ -31,7 +31,7 @@ const personagem2 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem3 = {
@@ -49,7 +49,7 @@ const personagem3 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem4 = {
@@ -67,7 +67,7 @@ const personagem4 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem5 = {
@@ -85,7 +85,7 @@ const personagem5 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem6 = {
@@ -103,7 +103,7 @@ const personagem6 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem7 = {
@@ -121,7 +121,7 @@ const personagem7 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagem8 = {
@@ -139,7 +139,7 @@ const personagem8 = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 const personagemThanos = {
@@ -157,7 +157,7 @@ const personagemThanos = {
         + "Arma secundaria: " + this.armaSecundaria + "\n"
         + "Nível de força: " + this.força + "\n"
         + "Nível de velocidade: " + this.velocidade + "\n"
-        + "Nível de resistência: " + this.resistencia + "\n"
+        + "Nível de resistência: " + this.resistencia ;
     }
 }
 
